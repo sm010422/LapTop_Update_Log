@@ -1,7 +1,6 @@
 # LapTop_Update_Log
 
 
----
 
 # MacBook Pro 16 inch
 
