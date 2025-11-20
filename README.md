@@ -872,7 +872,7 @@ After
     
     ![Screenshot 2025-07-08 at 10.29.19 AM.png](LapTop%20UpDate%20Log/Screenshot_2025-07-08_at_10.29.19_AM.png)
     
-    ![2025-07-08 스크린샷](./laptop/Screenshot_2025_07_08.png)
+    ![스크린샷 설명](laptop/Screenshot%202025-07-08%20at%2010.27.34%20AM.png)
     
 
 - 2025/07/09 → `brew install jenv`   & .zshrc code add
