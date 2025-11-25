@@ -935,6 +935,7 @@ After
 - 2025/11/13 → `pip3 install pydantic`
 - 2025/11/13 → `/opt/homebrew/Cellar/posting/2.9.2/libexec/bin/python3.14 -m pip install pydantic`
 - 2025/11/20 → `brew install bandwhich`
+- 2025/11/25 → `brew install hadoop`
 
 ---
 
