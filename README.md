@@ -938,6 +938,8 @@ After
 - 2025/11/25 → `brew install hadoop`
 - 2025/11/25 → iTerm2: Settings > Profiles > Keys > General > Left Option Key를 Esc+로 설정
 
+- 2025/12/29 → `brew install watch`
+
 ---
 
 # Bottom
