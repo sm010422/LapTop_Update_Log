@@ -941,6 +941,8 @@ After
 - 2025/12/29 → `brew install watch`
 - 2025/12/29 → `brew install ngrok`
 
+- 2026/02/27 → `brew install minikube`
+
 ---
 
 # Bottom
