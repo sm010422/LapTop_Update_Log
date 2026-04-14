@@ -943,6 +943,41 @@ After
 
 - 2026/02/27 → `brew install minikube`
 
+- 2026/03/01 → iTerm2: Settings > Profiles > Text > Text Rendering > Use built-in Powerline glyphs → Uncheck
+
+- 2026/03/21 → `brew install --cask ghostty`
+- 2026/03/21 → `brew install --cask font-noto-sans-cjk-kr`
+    
+    ```bash
+    ❯ brew install --cask font-noto-sans-cjk-kr
+    ✔︎ JSON API cask.jws.json                                                                                                             Downloaded   15.4MB/ 15.4MB
+    ✔︎ JSON API formula.jws.json                                                                                                          Downloaded   32.0MB/ 32.0MB
+    ==> Fetching downloads for: font-noto-sans-cjk-kr
+    ✔︎ Cask font-noto-sans-cjk-kr (2.004)                                                                                                 Verified     94.7MB/ 94.7MB
+    ==> Installing Cask font-noto-sans-cjk-kr
+    ==> Moving Font 'NotoSansCJKkr-Black.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-Black.otf'
+    ==> Moving Font 'NotoSansCJKkr-Bold.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-Bold.otf'
+    ==> Moving Font 'NotoSansCJKkr-DemiLight.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-DemiLight.otf'
+    ==> Moving Font 'NotoSansCJKkr-Light.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-Light.otf'
+    ==> Moving Font 'NotoSansCJKkr-Medium.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-Medium.otf'
+    ==> Moving Font 'NotoSansCJKkr-Regular.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-Regular.otf'
+    ==> Moving Font 'NotoSansCJKkr-Thin.otf' to '/Users/parksangmin/Library/Fonts/NotoSansCJKkr-Thin.otf'
+    🍺  font-noto-sans-cjk-kr was successfully installed!
+    
+    ```
+    
+- 2026/03/21 → `brew install hyperfine`
+- 2026/03/21 → Dock Update : add Ghostty
+
+- 2026/03/26 → `brew uninstall tldr`
+- 2026/03/26 → `brew install tealdeer`
+
+- 2026/04/06 → `brew install mongosh`
+- 2026/04/09 → `npm install -g obsidian-mcp`
+- 2026/04/09 → `npm install -g @anthropic-ai/claude-code`
+
+- 2026/04/14 → `brew install mole`
+
 ---
 
 # Bottom
